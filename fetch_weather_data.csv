@@ -1,0 +1,2 @@
+,Longitude,Latitude,weather_id,weather_main,weather_description,weather_icon,int_par_base,visibility,time_data_cal_unix,timezone,city_id,city_name,int_par_cod,temp,temp_feels_like,temp_min,temp_max,pressure,humidity,sea_level,grnd_level,wind_speed,wind_deg,wind_gust,cloudiness_percentage,sys_type,int_sys_id,int_sys_country_code,int_sys_sunrise_unix,int_sys_sunset_unix
+0,11.5755,48.1374,803,Clouds,broken clouds,04d,stations,10000,1721240401,7200,2867714,Munich,200,20.7,20.78,19.77,21.36,1021,75,1021,959,0.89,125,1.34,60,2,2002112,DE,1721187092,1721243268
