@@ -21,6 +21,6 @@ This is a data engineering project executed using Azure cloud services. The main
 
 ![NO img found](Azure_Images/10_Pipeline_monitoring.png)
 
-![NO img found](Azure_Images/11_Transformed_data in_datalake_container.png)
+![NO img found](Azure_Images/11_Transformed_data_in_datalake.png)
 
 ![NO img found](Azure_Images/12_ADX_visualization.png)
